@@ -24,7 +24,7 @@ def get_args():
     arg = argparse.ArgumentParser(description=description)
 
     arg.add_argument("-a", metavar="[filename.zip]",
-                     help="zip all files/folders in current directory to"
+                     help="zip all files/folders in current directory to "
                           "target [filename.zip]")
     arg.add_argument("-g", metavar="[gif file] [filename]", nargs='*',
                      help="creates a boot animation from target .gif "

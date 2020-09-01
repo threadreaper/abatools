@@ -20,8 +20,8 @@ Once installed, the abatools utility should be available from the command line. 
 
 Help is available from the command line with the -h or --help option, but basic usage is as follows:  
   
-  -a [filename.zip]     zip all files/folders in current directory totarget [filename.zip]<br>
-  -g [[gif file] [filename] [[gif file] [filename] ...]]
+  -a [filename.zip]     zip all files/folders in current directory to target [filename.zip]<br>
+  -g [[gif file] [filename] [[gif file] [filename.zip]]]<br>
                         creates a boot animation from a target .gif and saves it to [filename.zip]
 
 Questions or comments can be directed to threadreaper@gmail.com.  Pull requests are welcome if you discover any issues.
