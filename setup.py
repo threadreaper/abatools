@@ -15,7 +15,7 @@ setuptools.setup(
     install_requires=[
         'argparse',
         'pathlib',
-        'PIL',
+        'Pillow',
     ],
     packages=['abatools'],
     url='https://github.com/threadreaper/abatools',
